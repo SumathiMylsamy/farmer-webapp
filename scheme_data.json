@@ -1,0 +1,17 @@
+[
+  {
+    "title": "PM-KISAN",
+    "eligibility": "Small and marginal farmers owning up to 2 hectares",
+    "benefits": "₹6000/year in 3 equal installments"
+  },
+  {
+    "title": "Soil Health Card Scheme",
+    "eligibility": "All farmers",
+    "benefits": "Free soil health assessment and recommendations"
+  },
+  {
+    "title": "Crop Insurance Scheme",
+    "eligibility": "Farmers registered under PMFBY",
+    "benefits": "Financial support in case of crop failure"
+  }
+]

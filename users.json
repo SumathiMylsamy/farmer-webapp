@@ -1,0 +1,18 @@
+{
+    "farmer": {
+        "password": "1234",
+        "role": "farmer"
+    },
+    "admin": {
+        "password": "admin",
+        "role": "admin"
+    },
+    "Mathi": {
+        "password": "124",
+        "role": "farmer"
+    },
+    "Abc": {
+        "password": "123",
+        "role": "farmer"
+    }
+}

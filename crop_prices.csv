@@ -1,0 +1,13 @@
+crop,state,month,temp,rainfall,price
+Rice,Tamil Nadu,January,30,90,2400
+Rice,Tamil Nadu,February,32,100,2500
+Rice,Tamil Nadu,March,35,120,2600
+Wheat,Punjab,January,18,30,2100
+Wheat,Punjab,February,22,40,2200
+Wheat,Punjab,March,26,50,2300
+Maize,Maharashtra,June,32,180,1800
+Maize,Maharashtra,July,33,200,1900
+Maize,Maharashtra,August,34,220,2000
+Rice,Karnataka,April,36,140,2550
+Wheat,Uttar Pradesh,March,28,60,2250
+Maize,Andhra Pradesh,May,35,160,1850
