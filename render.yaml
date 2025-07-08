@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: farmer-webapp
+    env: python
+build:
+  pythonVersion: 3.10
